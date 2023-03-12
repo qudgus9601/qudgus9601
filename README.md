@@ -26,9 +26,9 @@
 <br>
 
 ## ✍️ Language
-제가 자주 쓰는 언어는 Javascript Typescript 입니다 <br>
-저가 공부해서 사용 해본 언어는 Javascript Typescript Go Solidity 입니다 <br>
-저가 현재 공부 중인 언어는 Go 입니다 <br><br>
+- 제가 자주 쓰는 언어는 Javascript Typescript 입니다 <br>
+- 저가 공부해서 사용 해본 언어는 Javascript Typescript Go Solidity 입니다 <br>
+- 저가 현재 공부 중인 언어는 Go 입니다 <br><br>
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md 통계 -->
 <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=qudgus9601&layout=compact">
   
@@ -49,7 +49,11 @@
   <img height=150 src="https://streak-stats.demolab.com?user=qudgus9601&theme=dark&hide_border=%EA%B1%B0%EC%A7%93&locale=ko&date_format=%5BY.%5Dn.j">
   <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md 통계 -->
   <img height=150 src="https://github-readme-stats.vercel.app/api?username=qudgus9601&show_icons=true&theme=great-gatsby">
-</p><br><br>
+</p>
+  <p align="left">
+    <image src="https://github-readme-stats.vercel.app/api/wakatime?username=honeyb&layout=compact&range=last_7_days&theme=dark">
+  </p>
+  <br><br>
 
 ## 🚶‍♂️ Motto
 <h3 align="center">발명될 수 있는 것은 모두 발명되었다.<br>- Charles H. Duell, 1899 -</h3>
